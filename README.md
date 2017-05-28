@@ -1,17 +1,17 @@
-<h1> Projeto_Final_IoT </h1>
-<h2> Automação residencial simples</h2>
+# Projeto_Final_IoT
+## Automação residencial simples
 
-<h3>Projeto final do curso "Introdução aos dispositivos conectados utilizando Python", oferecido pelo IFSP Piracicaba.</h3><br>
-A aplicação simula uma automação residencial simples. Tem funções para controlar temperatura ambiente, luzes externas e trancas de portas.<br>
-
-
-<b>Trancas de portas</b><br>
-As trancas das portas poderão ser abertas/fechadas mediante autenticação do usuário via web, via botão que simula uma trava interna da casa. Um LED simboliza o status da porta:<br>
-Aceso: travada<br>
-Apagado: aberta<br>
+### Projeto final do curso "Introdução aos dispositivos conectados utilizando Python", oferecido pelo IFSP Piracicaba.<addr>
+A aplicação simula uma automação residencial simples. Tem funções para controlar temperatura ambiente, luzes externas e trancas de portas.<addr>
 
 
-<b>Luzes externas</b><br>
+__Trancas de portas__
+As trancas das portas poderão ser abertas/fechadas mediante autenticação do usuário via web, via botão que simula uma trava interna da casa. Um LED simboliza o status da porta:<addr>
+Aceso: travada<addr>
+Apagado: aberta<addr>
+
+
+__Luzes externas__<addr>
 A aplicação liga/desliga as luzes externas de acordo com a luminosidade capatada pelo sensor. As luzes são representadas por LEDs.
 
 
